@@ -47,6 +47,10 @@ No matter what, you ***must*** follow one of these patterns. the `ins(n)` comman
 
 `a+b, a-b, a*b, a/b, a|b //bit xor , a^b, a&b, a v b //bit or , ¬a //bit not`
 
+>strs
+
+`s+t, s-t //characters of each one except ones that are in both. , 
+s--t // s-t but they need to removed if they are the EXACTLY THE SAME (the index needs to match) , a&b //inverse of a-b , a&&b //inverse of a--b
 
 
 ### jumpers
