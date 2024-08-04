@@ -18,6 +18,8 @@ No matter what, you ***must*** follow one of these patterns. the `ins(n)` comman
 
 ## basic oop actions
 
+yes, this is also object oriented
+
 ### types
 
 > num
