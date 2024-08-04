@@ -38,3 +38,17 @@ No matter what, you ***must*** follow one of these patterns. the `ins(n)` comman
 > probabitity
 
  `inv(.333) // 0.667`
+
+### operations
+> [!NOTE]
+> this is just a listed count(? i dont know what its called)
+
+>nums
+
+`a+b, a-b, a*b, a/b, a|b //bit xor , a^b, a&b, a v b //bit or , ¬a //bit not`
+
+
+
+### jumpers
+
+> if elif else
