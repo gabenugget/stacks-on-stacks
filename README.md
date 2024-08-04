@@ -39,7 +39,7 @@ yes, this is also object oriented
 > 
 > probabitity
 
- `inv(.333) // 0.667`
+ `inv(.333) // > 0.667`
 
 ### operations
 > [!NOTE]
@@ -54,6 +54,9 @@ yes, this is also object oriented
 `s+t, s-t //characters of each one except ones that are in both. , 
 s--t // s-t but they need to removed if they are the EXACTLY THE SAME (the index needs to match) , a&b //inverse of a-b , a&&b //inverse of a--b`
 
+>bools
+
+`¬a //not , a|b //xor , a&b //and , a v b //or, //combine ¬ and another op to make the n-op version (nand nor xnor)`
 
 ### jumpers
 
