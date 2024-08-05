@@ -65,7 +65,7 @@ s--t // s-t but they need to removed if they are the EXACTLY THE SAME (the index
 ### jumpers
 
 > if elif else
-```
+```java
 if a¬>b:
    print("a is not greater than b")
 elif b¬>c:
@@ -76,7 +76,7 @@ else:
 
 > loops
 
-```
+```java
 for i in [0,...,9]:
    print("We are at index...")
    print(i)
@@ -84,7 +84,7 @@ for i in [0,...,9]:
 
 > funcs
 
-```
+```java
 func ysn(txt)
    getinput(txt)
    if take() == "y" v take == "1":
@@ -97,16 +97,23 @@ func ysn(txt)
 
 > goto `yes this is real`
 
-```
+```java
 01|print("infinite loop in 2 lines")
 02|goto 01
 ```
 > goto if `& this`
 
-```
+```java
 01|goto 04 if ysn()
 02|print("n")
 03|goto 5
 04|print("y")
 05|no-op
 ```
+
+### other
+
+asyncs
+
+```java
+async
