@@ -88,5 +88,16 @@ for i in [0,...,9]:
 func ysn(txt)
    getinput(txt)
    if take() == "y" v take == "1":
+      return true
+   else:
+      return false
       
+```
+
+
+> goto `yes this is real`
+
+```
+01|print("infinite loop in 2 lines")
+02|goto 01
 ```
