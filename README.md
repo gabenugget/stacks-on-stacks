@@ -116,4 +116,15 @@ func ysn(txt)
 asyncs
 
 ```java
-async
+i = 0
+async count():
+   repeat 5:
+      i += 1
+
+async iprint():
+   repeat 5:
+      print(i)
+
+count() // \ 1, 2,
+print() // / 3, 4
+```
