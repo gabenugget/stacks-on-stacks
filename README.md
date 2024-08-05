@@ -60,8 +60,7 @@ s--t // s-t but they need to removed if they are the EXACTLY THE SAME (the index
 `¬a //not , a|b //xor , a&b //and , a v b //or, //combine ¬ and another op to make the n-op version (nand nor xnor)`
 
 >[!IMPORTANT]
->ops are functions
-> for probs, except for the ones that are in the nums.
+>ops are functions for probs, except for the ones that are in the nums.
 
 ### jumpers
 
@@ -81,4 +80,13 @@ else:
 for i in [0,...,9]:
    print("We are at index...")
    print(i)
+```
+
+> funcs
+
+```
+func ysn(txt)
+   getinput(txt)
+   if take() == "y" v take == "1":
+      
 ```
