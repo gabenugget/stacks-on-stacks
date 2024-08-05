@@ -60,11 +60,25 @@ s--t // s-t but they need to removed if they are the EXACTLY THE SAME (the index
 `¬a //not , a|b //xor , a&b //and , a v b //or, //combine ¬ and another op to make the n-op version (nand nor xnor)`
 
 >[!IMPORTANT]
->ops are funcs in for probs, except for the ones that are in the nums.
+>ops are functions
+> for probs, except for the ones that are in the nums.
 
 ### jumpers
 
 > if elif else
 ```
-if
+if a¬>b:
+   print("a is not greater than b")
+elif b¬>c:
+   print("a is greater than b, and b is not greater than c")
+else:
+   print("b is not greater than a, nor c")
+```
+
+> loops
+
+```
+for i in [0,...,9]:
+   print("We are at index...")
+   print(i)
 ```
