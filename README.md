@@ -101,3 +101,12 @@ func ysn(txt)
 01|print("infinite loop in 2 lines")
 02|goto 01
 ```
+> goto if `& this`
+
+```
+01|goto 04 if ysn()
+02|print("n")
+03|goto 5
+04|print("y")
+05|no-op
+```
