@@ -19,3 +19,9 @@ print(pop(m))
 6|   print(in)
 7|no-op
 ```
+
+## cat program
+```
+forever:
+   print(input())
+```
