@@ -48,7 +48,7 @@ yes, this is also object oriented
 >nums
 
 As stacks on stacks is a promotional language, we don't use comparisions with =. Instead we do ¬ comparisions.
-`a+b, a-b, a*b, a/b, a|b //bit xor , a^b, a&b, a v b //bit or , ¬a //bit not, a==b, a¬=b, a > b, a ¬> b, a < b, a ¬< b`
+`a+b, a-b, a*b, a/b, a|b //bit xor , a^b, a&b, a v b //bit or , ¬a //bit not, a mod b, flr a //floor a==b, a¬=b, a > b, a ¬> b, a < b, a ¬< b`
 
 >strs
 
@@ -60,7 +60,7 @@ s--t // s-t but they need to removed if they are the EXACTLY THE SAME (the index
 `¬a //not , a|b //xor , a&b //and , a v b //or, //combine ¬ and another op to make the n-op version (nand nor xnor)`
 
 >[!IMPORTANT]
->ops are functions for probs, except for the ones that are in the nums.
+>operations are functions for probs, except for the ones that are from the nums.
 
 ### jumpers
 
