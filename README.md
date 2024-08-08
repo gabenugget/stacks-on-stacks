@@ -126,5 +126,5 @@ async iprint():
       print(i)
 
 count() // \ 1, 2,
-print() // / 3, 4
+print() // / 3, 4, 5
 ```
