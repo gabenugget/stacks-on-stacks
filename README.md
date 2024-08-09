@@ -128,3 +128,8 @@ async iprint():
 count() // \ 1, 2,
 print() // / 3, 4, 5
 ```
+
+## sb (stack-based) extra features
+### making stacks
+
+Use `use(stack name)` to make a stack.
