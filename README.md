@@ -50,6 +50,7 @@ yes, this is also object oriented
 as stacks on stacks is a promotional language, we don't use comparisions with =. Instead we do ¬ comparisions.
 > [!NOTE]
 > you can use ! instead of ¬.
+
 `a+b, a-b, a*b, a/b, a|b //bit xor , a^b, a&b, a v b //bit or , ¬a //bit not, a mod b, flr a //floor a==b, a¬=b, a > b, a ¬> b, a < b, a ¬< b`
 
 >strs
