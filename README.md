@@ -53,6 +53,9 @@ as stacks on stacks is a promotional language, we don't use comparisions with =.
 
 `a+b, a-b, a*b, a/b, a|b //bit xor , a^b, a&b, a v b //bit or , ¬a //bit not, a mod b, flr a //floor a==b, a¬=b, a > b, a ¬> b, a < b, a ¬< b`
 
+>[!NOTE]
+>You can just type one of the comparisons. It will take the first 2 items off the `c` stack and compare them, such that the first one took off is the one on the left side. Same with the other operations.
+
 >strs
 
 `s+t, s-t //characters of each one except ones that are in both. , 
