@@ -132,7 +132,7 @@ async iprint():
       print(i)
 
 count() // \ 1, 2,
-print() // / 3, 4, 5
+iprint() // / 3, 4, 5
 ```
 
 ## sb (stack-based) extra features
